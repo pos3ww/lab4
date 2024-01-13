@@ -1,0 +1,15 @@
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\bin\Debug\net6.0\Lab4OOP.exe
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\bin\Debug\net6.0\Lab4OOP.deps.json
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\bin\Debug\net6.0\Lab4OOP.runtimeconfig.json
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\bin\Debug\net6.0\Lab4OOP.dll
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\bin\Debug\net6.0\Lab4OOP.pdb
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.csproj.AssemblyReference.cache
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.AssemblyInfoInputs.cache
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.AssemblyInfo.cs
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.csproj.CoreCompileInputs.cache
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.dll
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\refint\Lab4OOP.dll
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.pdb
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\Lab4OOP.genruntimeconfig.cache
+C:\Users\yoiyo\Desktop\OOP\LAB\lab3\lab3\obj\Debug\net6.0\ref\Lab4OOP.dll
